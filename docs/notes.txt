@@ -1,0 +1,3 @@
+MSPC BUS is to communicate between MSPC motherboard and peripheral extension cards. 
+
+
